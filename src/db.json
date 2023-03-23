@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Pedro",
+      "service": "email",
+      "corporation": "gmail",
+      "password": "123"
+    },
+    {
+      "name": "Edilene",
+      "service": "crédito",
+      "corporation": "master",
+      "password": "456"
+    },
+    {
+      "name": "Audrey",
+      "service": "débito",
+      "corporation": "inter",
+      "password": "789"
+    },
+    {
+      "name": "Dylan",
+      "service": "discord",
+      "corporation": "valve",
+      "password": "101112"
+    }
+  ]
+}
